@@ -30,7 +30,7 @@ PRODUCTS = [
         "category": "cover_blocks",
         "description": "Ideal for slabs, columns, and beams with pre-attached wire for easy fixing.",
         "specifications": "20mm cover thickness with wire attachment",
-        "image_url": "https://images.unsplash.com/photo-1593279915024-8a9be91643f9",
+        "image_url": "https://customer-assets.emergentagent.com/job_web-build-26/artifacts/lpyfn48s_2._20_mm_wire.png",
         "features": ["Wire attached", "Quick installation", "Secure fixing", "Quality checked"]
     },
     {
@@ -39,7 +39,7 @@ PRODUCTS = [
         "category": "cover_blocks",
         "description": "Perfect for standard RCC work in slabs, columns, and beams.",
         "specifications": "25mm cover thickness with wire attachment",
-        "image_url": "https://images.unsplash.com/photo-1565626424178-c699f6601afd",
+        "image_url": "https://customer-assets.emergentagent.com/job_web-build-26/artifacts/2wcobv54_2._25_mm_wire.png",
         "features": ["Standard size", "Wire attached", "Reliable support", "Easy handling"]
     },
     {
