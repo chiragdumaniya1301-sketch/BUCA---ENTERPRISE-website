@@ -75,7 +75,7 @@ PRODUCTS = [
         "category": "cover_blocks",
         "description": "Specially designed for footing construction requiring 75mm cover.",
         "specifications": "75mm cover thickness with wire attachment",
-        "image_url": "https://images.unsplash.com/photo-1593279915024-8a9be91643f9",
+        "image_url": "https://customer-assets.emergentagent.com/job_web-build-26/artifacts/2d3i7czo_2.%2075%20mm%20wire.png",
         "features": ["Footing specialist", "Extra thick", "Superior strength", "Wire attached"]
     },
     {
