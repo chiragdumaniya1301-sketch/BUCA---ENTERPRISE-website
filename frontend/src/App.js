@@ -315,7 +315,8 @@ function App() {
                   product.name.includes("75mm Cover Block with Tying Hole") ||
                   product.name.includes("50mm Pile Cover Block") ||
                   product.name.includes("75mm Pile Cover Block") ||
-                  product.name.includes("M25 Grade Foundation Blocks")
+                  product.name.includes("M25 Grade Foundation Blocks") ||
+                  product.name.includes("Concrete Decorative Tray Set")
                     ? "bg-gray-50 flex items-center justify-center" 
                     : ""
                 }`}>
@@ -327,7 +328,8 @@ function App() {
                       product.name.includes("75mm Cover Block with Tying Hole") ||
                       product.name.includes("50mm Pile Cover Block") ||
                       product.name.includes("75mm Pile Cover Block") ||
-                      product.name.includes("M25 Grade Foundation Blocks")
+                      product.name.includes("M25 Grade Foundation Blocks") ||
+                      product.name.includes("Concrete Decorative Tray Set")
                         ? "object-contain p-4" 
                         : "object-cover"
                     }`}
