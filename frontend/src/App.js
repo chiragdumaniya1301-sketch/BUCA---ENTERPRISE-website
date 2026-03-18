@@ -130,13 +130,13 @@ function App() {
         id="home" 
         className="relative h-screen flex items-center justify-center text-white"
         style={{
-          backgroundImage: "url('https://images.unsplash.com/photo-1771678041131-2fec770e72c4?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2OTF8MHwxfHNlYXJjaHwyfHxpbmR1c3RyaWFsJTIwY29uY3JldGV8ZW58MHx8fHwxNzczODEyMDUwfDA&ixlib=rb-4.1.0&q=85')",
+          backgroundImage: "url('https://customer-assets.emergentagent.com/job_web-build-26/artifacts/1rjajjty_NEW%20LOGO%20BG.png')",
           backgroundSize: "cover",
           backgroundPosition: "center"
         }}
         data-testid="hero-section"
       >
-        <div className="absolute inset-0 bg-black bg-opacity-60"></div>
+        <div className="absolute inset-0 bg-black bg-opacity-40"></div>
         <div className="relative z-10 text-center px-4">
           <h1 className="text-5xl md:text-6xl font-bold mb-4" data-testid="hero-title">BUCA ENTERPRISE</h1>
           <p className="text-xl md:text-2xl mb-2">Premium Concrete Products Manufacturer</p>
