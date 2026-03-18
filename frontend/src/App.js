@@ -175,7 +175,6 @@ function App() {
                 We deliver reliable concrete products that help maintain proper reinforcement cover and improve the strength and life of buildings and infrastructure projects.
               </p>
               <div className="flex items-center gap-2 text-orange-500 font-semibold">
-                <span className="text-2xl">🇮🇳</span>
                 <span>Made in India</span>
               </div>
             </div>
