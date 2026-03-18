@@ -120,7 +120,7 @@ PRODUCTS = [
         "category": "cover_blocks",
         "description": "Heavy-duty pile cover for large pile column construction.",
         "specifications": "Overall diameter: 164mm, Centre hole: 14mm, Thickness: 25mm",
-        "image_url": "https://images.unsplash.com/photo-1607418679367-6c98ea5587b0",
+        "image_url": "https://customer-assets.emergentagent.com/job_web-build-26/artifacts/x4hkphqx_1.%2075%20mm%20pile.png",
         "features": ["Heavy-duty pile", "Accurate cover", "Extra thick", "Firm fixing"]
     },
     # Foundation Blocks
