@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import "@/App.css";
 import axios from "axios";
-import { Phone, Mail, MapPin, Building2, Send, Menu, X } from "lucide-react";
+import { Phone, Mail, MapPin, Send, Menu, X } from "lucide-react";
 
 const BACKEND_URL = process.env.REACT_APP_BACKEND_URL;
 const API = `${BACKEND_URL}/api`;
@@ -86,8 +86,11 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
-              <Building2 className="h-8 w-8 text-orange-500" />
-              <span className="ml-2 text-xl font-bold">BUCA ENTERPRISE</span>
+              <img 
+                src="https://customer-assets.emergentagent.com/job_web-build-26/artifacts/i1cwgx1w_BUCA%20LOGO.jpeg" 
+                alt="BUCA ENTERPRISE Logo" 
+                className="h-10"
+              />
             </div>
             
             {/* Desktop Menu */}
@@ -172,7 +175,7 @@ function App() {
                 We deliver reliable concrete products that help maintain proper reinforcement cover and improve the strength and life of buildings and infrastructure projects.
               </p>
               <div className="flex items-center gap-2 text-orange-500 font-semibold">
-                <Building2 className="h-5 w-5" />
+                <span className="text-2xl">🇮🇳</span>
                 <span>Made in India</span>
               </div>
             </div>
@@ -392,7 +395,7 @@ function App() {
 
                 <div>
                   <h4 className="font-bold text-gray-900 mb-2 flex items-center">
-                    <Building2 className="h-5 w-5 text-orange-500 mr-2" />
+                    <span className="text-orange-500 mr-2 text-xl">📋</span>
                     GSTN
                   </h4>
                   <p className="ml-7 text-gray-700">24AODPD4157J1Z5</p>
@@ -515,8 +518,11 @@ function App() {
           <div className="grid md:grid-cols-3 gap-8 mb-8">
             <div>
               <div className="flex items-center mb-4">
-                <Building2 className="h-8 w-8 text-orange-500" />
-                <span className="ml-2 text-xl font-bold">BUCA ENTERPRISE</span>
+                <img 
+                  src="https://customer-assets.emergentagent.com/job_web-build-26/artifacts/i1cwgx1w_BUCA%20LOGO.jpeg" 
+                  alt="BUCA ENTERPRISE Logo" 
+                  className="h-10"
+                />
               </div>
               <p className="text-gray-400">
                 Trusted manufacturer of premium concrete products for modern construction.
