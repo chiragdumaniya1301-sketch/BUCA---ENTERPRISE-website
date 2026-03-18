@@ -130,7 +130,7 @@ function App() {
         id="home" 
         className="relative h-screen flex items-center justify-center text-white"
         style={{
-          backgroundImage: "url('https://customer-assets.emergentagent.com/job_web-build-26/artifacts/1rjajjty_NEW%20LOGO%20BG.png')",
+          backgroundImage: "url('https://customer-assets.emergentagent.com/job_web-build-26/artifacts/8qqw9izw_Gemini_Generated_Image_cdtx0bcdtx0bcdtx.png')",
           backgroundSize: "cover",
           backgroundPosition: "center"
         }}
