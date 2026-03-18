@@ -310,11 +310,11 @@ function App() {
                 className="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition"
                 data-testid={`product-card-${product.id}`}
               >
-                <div className="h-48 overflow-hidden">
+                <div className="h-48 overflow-hidden bg-gray-50 flex items-center justify-center">
                   <img 
                     src={product.image_url} 
                     alt={product.name}
-                    className="w-full h-full object-cover hover:scale-110 transition duration-300"
+                    className="w-full h-full object-contain p-4 hover:scale-110 transition duration-300"
                   />
                 </div>
                 <div className="p-6">
