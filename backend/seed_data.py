@@ -48,7 +48,7 @@ PRODUCTS = [
         "category": "cover_blocks",
         "description": "Suitable for slabs, columns, and beams requiring 30mm cover.",
         "specifications": "30mm cover thickness with wire attachment",
-        "image_url": "https://images.unsplash.com/photo-1607418679367-6c98ea5587b0",
+        "image_url": "https://customer-assets.emergentagent.com/job_web-build-26/artifacts/4p7dezx7_2.%2030%20mm%20wire.png",
         "features": ["Wire attached", "Accurate cover", "Strong support", "Long-lasting"]
     },
     {
