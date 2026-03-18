@@ -149,7 +149,7 @@ PRODUCTS = [
         "category": "decorative",
         "description": "Minimalist decorative set with circular/square tray and three geometric succulent pots.",
         "specifications": "Smooth finish, subtle industrial texture, earthy tones, sophisticated design",
-        "image_url": "https://images.unsplash.com/photo-1645683266253-6ba9fac7b0a6",
+        "image_url": "https://customer-assets.emergentagent.com/job_web-build-26/artifacts/pfhy6wg9_Circle%20with%20pot.png",
         "features": ["Minimalist", "Complete set", "Succulent pots included", "Urban elegance", "Desk centrepiece"]
     },
     {
