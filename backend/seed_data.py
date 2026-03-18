@@ -158,7 +158,7 @@ PRODUCTS = [
         "category": "decorative",
         "description": "Sleek tapered design flowerpots with weather-resistant finish, available in multiple sizes.",
         "specifications": "Multiple sizes (4-inch to 12-inch), thick walls for thermal insulation, smooth matte finish",
-        "image_url": "https://images.unsplash.com/photo-1645683275207-0739d293060c",
+        "image_url": "https://customer-assets.emergentagent.com/job_web-build-26/artifacts/3chqqnfm_Flower_Pot.png",
         "features": ["Weather-resistant", "Multiple sizes", "Thermal insulation", "Stable base", "Modern aesthetic"]
     },
     {
