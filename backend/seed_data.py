@@ -84,7 +84,7 @@ PRODUCTS = [
         "category": "cover_blocks",
         "description": "For heavy slabs, columns, and footings with tying hole for secure fixing.",
         "specifications": "50mm thickness with tying hole, prevents movement",
-        "image_url": "https://images.unsplash.com/photo-1607418679367-6c98ea5587b0",
+        "image_url": "https://customer-assets.emergentagent.com/job_web-build-26/artifacts/vf9or01r_1.%2050%20mm%20hole.png",
         "features": ["Tying hole", "Secure fixing", "No movement", "Heavy-duty"]
     },
     {
