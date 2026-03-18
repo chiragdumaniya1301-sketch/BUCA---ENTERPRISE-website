@@ -569,7 +569,7 @@ function App() {
           </div>
 
           <div className="border-t border-gray-800 pt-8 text-center text-gray-400">
-            <p>&copy; {new Date().getFullYear()} BUCA ENTERPRISE. All rights reserved.</p>
+            <p>&copy; 2014 BUCA ENTERPRISE. All rights reserved.</p>
           </div>
         </div>
       </footer>
