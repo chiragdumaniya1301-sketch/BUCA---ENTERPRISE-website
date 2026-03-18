@@ -57,7 +57,7 @@ PRODUCTS = [
         "category": "cover_blocks",
         "description": "For heavy slabs, columns, beams, and footings requiring 40mm cover.",
         "specifications": "40mm cover thickness with wire attachment",
-        "image_url": "https://images.unsplash.com/photo-1565626424178-c699f6601afd",
+        "image_url": "https://customer-assets.emergentagent.com/job_web-build-26/artifacts/jc6drz8g_2.%2040%20mm.png",
         "features": ["Heavy-duty", "Wire attached", "Extra strength", "Stable support"]
     },
     {
