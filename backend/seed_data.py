@@ -111,7 +111,7 @@ PRODUCTS = [
         "category": "cover_blocks",
         "description": "For pile column construction ensuring accurate 50mm cover with firm fixing.",
         "specifications": "Overall diameter: 114mm, Centre hole: 14mm, Thickness: 20mm",
-        "image_url": "https://images.unsplash.com/photo-1593279915024-8a9be91643f9",
+        "image_url": "https://customer-assets.emergentagent.com/job_web-build-26/artifacts/ryodfy6x_1.%2050%20mm%20pile.png",
         "features": ["Pile specialist", "Accurate cover", "Firm fixing", "Standard size"]
     },
     {
