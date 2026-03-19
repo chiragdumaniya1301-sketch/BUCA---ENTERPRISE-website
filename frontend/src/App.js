@@ -309,29 +309,11 @@ function App() {
                 className="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition"
                 data-testid={`product-card-${product.id}`}
               >
-                <div className={`h-48 overflow-hidden ${
-                  product.name.includes("50mm Cover Block with Tying Hole") || 
-                  product.name.includes("75mm Cover Block with Tying Hole") ||
-                  product.name.includes("50mm Pile Cover Block") ||
-                  product.name.includes("75mm Pile Cover Block") ||
-                  product.name.includes("M25 Grade Foundation Blocks") ||
-                  product.name.includes("Concrete Decorative Tray Set")
-                    ? "bg-gray-50 flex items-center justify-center" 
-                    : ""
-                }`}>
+                <div className="h-48 overflow-hidden bg-gray-50 flex items-center justify-center">
                   <img 
                     src={product.image_url} 
                     alt={product.name}
-                    className={`w-full h-full hover:scale-110 transition duration-300 ${
-                      product.name.includes("50mm Cover Block with Tying Hole") || 
-                      product.name.includes("75mm Cover Block with Tying Hole") ||
-                      product.name.includes("50mm Pile Cover Block") ||
-                      product.name.includes("75mm Pile Cover Block") ||
-                      product.name.includes("M25 Grade Foundation Blocks") ||
-                      product.name.includes("Concrete Decorative Tray Set")
-                        ? "object-contain p-4" 
-                        : "object-cover"
-                    }`}
+                    className="w-full h-full object-contain p-4 hover:scale-110 transition duration-300"
                   />
                 </div>
                 <div className="p-6">
