@@ -10,6 +10,7 @@ function App() {
   const [products, setProducts] = useState([]);
   const [selectedCategory, setSelectedCategory] = useState("all");
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [lightboxImage, setLightboxImage] = useState(null);
   const [formData, setFormData] = useState({
     name: "",
     email: "",
@@ -313,7 +314,8 @@ function App() {
                   <img 
                     src={product.image_url} 
                     alt={product.name}
-                    className="w-full h-full object-contain p-4 hover:scale-110 transition duration-300"
+                    className="w-full h-full object-contain p-4 hover:scale-110 transition duration-300 cursor-pointer"
+                    onClick={() => setLightboxImage({ url: product.image_url, name: product.name })}
                   />
                 </div>
                 <div className="p-6">
@@ -554,6 +556,32 @@ function App() {
           </div>
         </div>
       </footer>
+
+      {/* Lightbox Modal */}
+      {lightboxImage && (
+        <div 
+          className="fixed inset-0 bg-black bg-opacity-90 z-50 flex items-center justify-center p-4"
+          onClick={() => setLightboxImage(null)}
+          data-testid="lightbox-modal"
+        >
+          <button
+            className="absolute top-4 right-4 text-white text-4xl hover:text-orange-500 transition"
+            onClick={() => setLightboxImage(null)}
+            data-testid="lightbox-close-btn"
+          >
+            ×
+          </button>
+          <div className="max-w-5xl w-full max-h-screen flex flex-col items-center">
+            <img
+              src={lightboxImage.url}
+              alt={lightboxImage.name}
+              className="max-w-full max-h-[80vh] object-contain"
+              onClick={(e) => e.stopPropagation()}
+            />
+            <p className="text-white text-xl mt-4 text-center">{lightboxImage.name}</p>
+          </div>
+        </div>
+      )}
     </div>
   );
 }
