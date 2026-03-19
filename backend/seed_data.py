@@ -66,7 +66,7 @@ PRODUCTS = [
         "category": "cover_blocks",
         "description": "Heavy-duty cover blocks for heavy slabs, columns, beams, and footings.",
         "specifications": "50mm cover thickness with wire attachment",
-        "image_url": "https://customer-assets.emergentagent.com/job_web-build-26/artifacts/cl83mhr9_2.%2050%20mm%20wire.png",
+        "image_url": "https://customer-assets.emergentagent.com/job_web-build-26/artifacts/16mxbmx8_2.%2050%20mm%20wire.png",
         "features": ["Heavy construction", "Wire attached", "Maximum durability", "Secure fixing"]
     },
     {
