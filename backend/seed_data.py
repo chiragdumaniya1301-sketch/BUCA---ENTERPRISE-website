@@ -30,7 +30,7 @@ PRODUCTS = [
         "category": "cover_blocks",
         "description": "Ideal for slabs, columns, and beams with pre-attached wire for easy fixing.",
         "specifications": "20mm cover thickness with wire attachment",
-        "image_url": "https://customer-assets.emergentagent.com/job_web-build-26/artifacts/lpyfn48s_2._20_mm_wire.png",
+        "image_url": "https://customer-assets.emergentagent.com/job_web-build-26/artifacts/bwwm2bzi_2._20_mm_wire.png",
         "features": ["Wire attached", "Quick installation", "Secure fixing", "Quality checked"]
     },
     {
