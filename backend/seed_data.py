@@ -39,7 +39,7 @@ PRODUCTS = [
         "category": "cover_blocks",
         "description": "Perfect for standard RCC work in slabs, columns, and beams.",
         "specifications": "25mm cover thickness with wire attachment",
-        "image_url": "https://customer-assets.emergentagent.com/job_web-build-26/artifacts/2wcobv54_2._25_mm_wire.png",
+        "image_url": "https://customer-assets.emergentagent.com/job_web-build-26/artifacts/2n7s4ibq_2._25_mm_wire.png",
         "features": ["Standard size", "Wire attached", "Reliable support", "Easy handling"]
     },
     {
