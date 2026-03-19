@@ -167,7 +167,7 @@ PRODUCTS = [
         "category": "decorative",
         "description": "Minimalist handcrafted wall clock blending rustic charm with modern industrial design.",
         "specifications": "Handcrafted, industrial design, concrete construction",
-        "image_url": "https://customer-assets.emergentagent.com/job_web-build-26/artifacts/rjzv6czp_2_wall_clock.png",
+        "image_url": "https://customer-assets.emergentagent.com/job_web-build-26/artifacts/j4jcibi3_wall%20clock.jpeg",
         "features": ["Handcrafted", "Industrial design", "Rustic charm", "Wall décor", "Unique piece"]
     }
 ]
