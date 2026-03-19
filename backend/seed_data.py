@@ -130,7 +130,7 @@ PRODUCTS = [
         "category": "foundation_blocks",
         "description": "Pre-cast concrete foundation blocks for heavy-duty construction with steel lifting hooks.",
         "specifications": "Dimensions: 600x600x300mm, M25 grade concrete, 25mm diameter pipe sleeves, 10mm diameter steel lifting hook",
-        "image_url": "https://customer-assets.emergentagent.com/job_web-build-26/artifacts/qcgvh90g_ChatGPT%20Image%20Mar%2017%2C%202026%2C%2001_30_12%20PM.png",
+        "image_url": "https://customer-assets.emergentagent.com/job_web-build-26/artifacts/270sh4cf_ChatGPT%20Image%20Mar%2017%2C%202026%2C%2001_30_12%20PM.png",
         "features": ["M25 grade", "Heavy-duty", "Steel lifting hooks", "Pre-cast quality", "Easy handling"]
     },
     # Decorative Products
