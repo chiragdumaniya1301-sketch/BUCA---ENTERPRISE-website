@@ -140,7 +140,7 @@ PRODUCTS = [
         "category": "decorative",
         "description": "Modern industrial design pen stand with excellent strength and handcrafted appearance.",
         "specifications": "Premium concrete, practical compartments, unique textures and finishes",
-        "image_url": "https://customer-assets.emergentagent.com/job_web-build-26/artifacts/njgryywx_2.png",
+        "image_url": "https://customer-assets.emergentagent.com/job_web-build-26/artifacts/l6iqupxv_2.png",
         "features": ["Modern design", "Durable", "Office décor", "Handcrafted look", "Sturdy weight"]
     },
     {
