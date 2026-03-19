@@ -102,7 +102,7 @@ PRODUCTS = [
         "category": "cover_blocks",
         "description": "Designed for pile column construction with accurate cover and firm fixing.",
         "specifications": "Overall diameter: 97mm, Centre hole: 17mm, Thickness: 20mm",
-        "image_url": "https://customer-assets.emergentagent.com/job_web-build-26/artifacts/qm9dgydj_1.%2040%20mm%20pile.png",
+        "image_url": "https://customer-assets.emergentagent.com/job_web-build-26/artifacts/w2xlrhs7_1.%2040%20mm%20pile.png",
         "features": ["Pile specialist", "Accurate cover", "Firm fixing", "Circular design"]
     },
     {
