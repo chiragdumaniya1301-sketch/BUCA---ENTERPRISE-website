@@ -178,6 +178,15 @@ PRODUCTS = [
         "specifications": "Set of 8 geometric pieces in varied shapes (cylindrical, hexagonal, octagonal), coral-red weathered finish, multiple size options",
         "image_url": "https://customer-assets.emergentagent.com/job_web-build-26/artifacts/o9rjkvo6_Table%20Top%20Decor.jpeg",
         "features": ["8-piece collection", "Geometric variety", "Vibrant finish", "Multi-purpose use", "Handcrafted look"]
+    },
+    {
+        "id": str(uuid.uuid4()),
+        "name": "Bathroom Accessory Set",
+        "category": "decorative",
+        "description": "Elegant 5-piece concrete bathroom collection in refreshing turquoise-mint finish. Complete vanity set includes soap dispenser with chrome pump, toothbrush holder, decorative planter, soap dish, and coordinating tray. Transforms any wash basin area into a stylish sanctuary.",
+        "specifications": "5-piece set: tray base, soap dispenser with chrome pump, toothbrush holder, planter, soap dish with drainage, turquoise-mint concrete finish",
+        "image_url": "https://customer-assets.emergentagent.com/job_web-build-26/artifacts/g8y92ull_Wash%20Besin%20or%20Bathroom%20Decor.jpeg",
+        "features": ["5-piece complete set", "Chrome pump dispenser", "Coordinated design", "Water-resistant", "Bathroom essentials"]
     }
 ]
 
