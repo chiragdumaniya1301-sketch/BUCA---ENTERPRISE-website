@@ -93,7 +93,7 @@ PRODUCTS = [
         "category": "cover_blocks",
         "description": "For heavy footings with tying hole ensuring secure fixing and stability.",
         "specifications": "75mm thickness with tying hole, prevents movement",
-        "image_url": "https://customer-assets.emergentagent.com/job_web-build-26/artifacts/eku453cy_1.%2075%20mm%20hole.png",
+        "image_url": "https://customer-assets.emergentagent.com/job_web-build-26/artifacts/r97rc3hm_1.%2075%20mm%20hole.png",
         "features": ["Tying hole", "Maximum stability", "Footing specialist", "Secure fixing"]
     },
     {
