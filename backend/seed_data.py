@@ -169,6 +169,15 @@ PRODUCTS = [
         "specifications": "Handcrafted, industrial design, concrete construction",
         "image_url": "https://customer-assets.emergentagent.com/job_web-build-26/artifacts/j4jcibi3_wall%20clock.jpeg",
         "features": ["Handcrafted", "Industrial design", "Rustic charm", "Wall décor", "Unique piece"]
+    },
+    {
+        "id": str(uuid.uuid4()),
+        "name": "Table Top Decor Collection",
+        "category": "decorative",
+        "description": "Artisan concrete décor set featuring 8 uniquely shaped pieces with vibrant coral-red weathered finish. Perfect for creating stunning table displays with succulents, flowers, or as standalone statement pieces.",
+        "specifications": "Set of 8 geometric pieces in varied shapes (cylindrical, hexagonal, octagonal), coral-red weathered finish, multiple size options",
+        "image_url": "https://customer-assets.emergentagent.com/job_web-build-26/artifacts/o9rjkvo6_Table%20Top%20Decor.jpeg",
+        "features": ["8-piece collection", "Geometric variety", "Vibrant finish", "Multi-purpose use", "Handcrafted look"]
     }
 ]
 
