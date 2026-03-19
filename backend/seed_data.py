@@ -21,7 +21,7 @@ PRODUCTS = [
         "category": "cover_blocks",
         "description": "Versatile concrete cover blocks suitable for slabs, beams, columns, and footings.",
         "specifications": "Available in 20mm, 25mm, 30mm, and 40mm sizes",
-        "image_url": "https://customer-assets.emergentagent.com/job_web-build-26/artifacts/q0296g4z_1.%2020-25.png",
+        "image_url": "https://customer-assets.emergentagent.com/job_web-build-26/artifacts/qcwgvwoa_1.%2020-25.png",
         "features": ["Multi-purpose", "Accurate dimensions", "Durable concrete", "Easy installation"]
     },
     {
